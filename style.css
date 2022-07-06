@@ -43,48 +43,11 @@ section{
     padding: 0 25%;
     margin: 5% 0;
 }
-.hundred{
+.donation-ammount div{
     width: 20%;
     background-color: rgba(128, 128, 128, 0.068);
+    margin-left: 10px;
     border-radius: 5px;
-    margin-left: 10px;
-    color: gray;
-    font-size: 22px;
-
-}
-.two-hundred{
-    width: 20%;
-    border: 2px solid tomato;
-    background-color: rgba(255, 99, 71, 0.103);
-    color: tomato;
-    border-radius: 5px;
-    margin-left: 10px;
-    font-size: 22px;
- }
-.five-hundred{
-    width: 20%;
-    margin-left: 10px;
-    background-color: rgba(128, 128, 128, 0.068);
-    border-radius: 5px;
-    margin-left: 10px;
-    color: gray;
-    font-size: 22px;
-}
-.thousand{
-    width: 20%;
-    margin-left: 10px;
-    background-color: rgba(128, 128, 128, 0.068);
-    border-radius: 5px;
-    margin-left: 10px;
-    color: gray;
-    font-size: 22px;
-}
-.five-thousand{
-    width: 20%;
-    margin-left: 10px;
-    background-color: rgba(128, 128, 128, 0.068);
-    border-radius: 5px;
-    margin-left: 10px;
     color: gray;
     font-size: 22px;
 }
@@ -95,9 +58,6 @@ section{
     width: 50%;
     margin-bottom: 30px;
 }
-
-
-
 
 .donate-plan-des{
     text-align: center;
