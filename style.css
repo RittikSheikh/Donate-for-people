@@ -95,3 +95,38 @@ section{
     width: 50%;
     margin-bottom: 30px;
 }
+
+
+
+
+.donate-plan-des{
+    text-align: center;
+    margin-bottom: 50px;
+}
+#donate-plan{
+    padding: 0 15%;
+}
+.card{
+    display: flex;
+}
+.food{
+    width: 30%;
+     margin-left: 3%;
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: rgb(237, 245, 246);
+}
+.selter{
+    width: 30%;
+    margin-left: 3%;
+    padding: 10px;
+    background-color: rgb(255, 238, 238);
+    border-radius: 10px;
+}
+.education{
+    width: 30%;
+    margin-left: 3%;
+    padding: 10px;
+    background-color:rgb(255, 244, 214) ;
+    border-radius: 10px;
+}
