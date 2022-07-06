@@ -224,3 +224,17 @@ section{
     border-radius: 0 5px 5px 0;
     margin-left: -4px;
  }
+ footer{
+    background-color: rgb(11, 13, 23);
+    color: white;
+    text-align: center;
+    padding: 2% 0;
+ }
+ .footer-color{
+    color: rgba(255, 68, 0, 0.89);
+ }
+ footer h2{
+    font-family: 'Tangerine', cursive;
+ }
+
+ 
