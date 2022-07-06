@@ -159,6 +159,7 @@ section{
 .card-one img{
     width: 100%;
     border-radius: 10px;
+    height: 175px;
 }
 .card-two{
     width: 25%;
