@@ -130,3 +130,68 @@ section{
     background-color:rgb(255, 244, 214) ;
     border-radius: 10px;
 }
+#flood{
+
+}
+.trouble{
+    background-image: url(images/donation9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.trouble h1{
+    padding: 200px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.767);
+}
+.trouble-hr{
+    width: 50%;
+}
+.trouble-card{
+    display: flex;
+    margin-top: 30px;
+}
+.trouble-card div{
+    margin-left: 10px;
+ }
+.card-one{
+    width: 25%;
+}
+.card-one img{
+    width: 100%;
+    border-radius: 10px;
+}
+.card-two{
+    width: 25%;
+}
+.card-two img{
+    width: 100%;
+    border-radius: 10px;
+    height: 175px;
+}
+.card-three{
+    width: 25%;
+}
+.card-three img{
+    width: 100%;
+    border-radius: 10px;
+    height: 175px;
+ }
+.card-four{
+    width: 25%;
+}
+.card-four img{
+    width: 100%;
+    border-radius: 10px;
+    height: 175px;
+}
+.our-help{
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 35%;
+    box-shadow: 10px  10px 40px gray;
+    padding: 5px;
+    width: 30%;
+    border-radius: 10px;
+    border-top: 7px solid tomato;
+    border-bottom: 7px solid blue;
+}
