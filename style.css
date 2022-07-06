@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+#header-sec{
+    background-image: url(images/donation7.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+ .header-intro{
+    padding: 10% 30%;
+    color: rgba(255, 255, 255, 0.979);
+    text-align: center;
+ }
+ .header-intro p{
+    color: rgb(255, 255, 255);
+ }
+.donate-btn{
+    text-decoration: none;
+    font-weight: 500;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: tomato;
+    color: white;
+}
